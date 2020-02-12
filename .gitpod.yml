@@ -1,7 +1,7 @@
 image:
   file: .gitpod.Dockerfile
 tasks:
-  - command: Rscript graph.R && open Rplots.pdf
+  - command: Rscript graph.R
 vscode:
   extensions:
     - Mikhail-Arkhipov.r@0.0.6:M4pd3IjUdOlW1oU7q8SITA==
